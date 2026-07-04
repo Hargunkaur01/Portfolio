@@ -32,5 +32,3 @@ A modern and responsive personal portfolio website developed using HTML, CSS, an
 - Netlify
 
 
-
-## 👩‍💻 Author
